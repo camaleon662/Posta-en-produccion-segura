@@ -10,7 +10,7 @@
 
 ## 1 . Introducción
 
-Un ataque de falsificación de solicitudes del lado del servidor (ServerSideRequestForguery), se basa en que el atacante puede modificar una URL de una solicitud legitima y lanzar consultas http que sean ejecutadas en el servidor.
+Un ataque de falsificación de solicitudes del lado del servidor (ServerSideRequestForguery), se basa en que el atacante puede modificar una URL de una solicitud legitima y lanzar consultas que sean ejecutadas en el servidor.
 
 
 
@@ -36,7 +36,9 @@ Otro escenario podría ser el acceso a datos o plataformas que solo son accesibl
 
 ## 4 . Practica
 
-
+```
+<iframe width="320" height="180" src="hhttps://www.youtube.com/watch?v=CaO5sSg9GpA" title="Tarea2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+```
 
 
 
