@@ -32,11 +32,11 @@ Este tipo de solicitudes serian ejecutadas en el servidor y esta petición pasar
 
 ## 3 . Escenarios actuales<a name="escenarios"></a>
 
-Un escenario actual puede ser la obtención de metadatos de AWS con este método.
+Un escenario actual puede ser la obtención de metadatos de AWS con este método, dado que si no esta bien configurado se puede llegar a lanzar consultas a la API interna.
 
-Otro escenario es un ataque de denegación de servicio, pero en vez de atacar al servidor principal que esta mas protegido, atacar a un servidor interno.
+Otro escenario es un ataque de denegación de servicio, pero en vez de atacar al servidor principal que esta mas protegido, atacar a un servidor interno, saturando de este modo un servicio del que depende la web y provocando su mal funcionamiento o hasta la paralizacion de la misma.
 
-Otro escenario podría ser el acceso a datos o plataformas que solo son accesibles desde la red interna.
+Otro escenario podría ser el acceso a datos o plataformas que solo son accesibles desde la red interna como por ejemplo el acceso a un panel de administracion que esta protegido para que solo se pueda acceder desde la misma red.
 
 
 
