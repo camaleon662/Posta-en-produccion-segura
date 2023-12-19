@@ -40,9 +40,12 @@ Otro escenario podría ser el acceso a datos o plataformas que solo son accesibl
 
 
 
+
+
 ## 4 . Practica<a name="practica"></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaO5sSg9GpA?si=RRNrW8o0E4Fzndf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![Video de la practica](https://img.youtube.com/vi/CaO5sSg9GpA/0.jpg)](https://www.youtube.com/watch?v=CaO5sSg9GpA)
 
 
 
